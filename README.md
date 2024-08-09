@@ -1,4 +1,4 @@
-Pima Indian Diabetes Analysis
+# Pima Indian Diabetes Analysis
 This repository contains a comprehensive analysis project aimed at predicting the probability of diabetes in the Pima Indian population. The project includes a Jupyter Notebook with data modeling and analysis.
 
 Project Overview
